@@ -1,4 +1,4 @@
-# README: A recommender system based on customer interaction with an e-commerce website
+# A recommender system based on customer interaction with an e-commerce website
 
 ## Research question
 
