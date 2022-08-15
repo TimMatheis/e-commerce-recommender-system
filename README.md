@@ -1,5 +1,4 @@
-# README: A recommender system based on customer
-interaction with an e-commerce website
+# README: A recommender system based on customer interaction with an e-commerce website
 
 ## Research question
 
@@ -23,4 +22,4 @@ Our data is from [Kaggle](https://www.kaggle.com/datasets/mkechinov/ecommerce-be
 
 <p>&nbsp;</p>  
 
-![Summary of our project](../images/summary.drawio.png)
+![Summary of our project](images/summary.drawio.png)
